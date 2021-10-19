@@ -1,0 +1,17 @@
+<pre class='metadata'>
+Group: AOM
+Status: WGA
+Title: Working Group Approved Spec Title
+Editor: Editor 1, Company 1, editor1@company1.com
+Editor: Editor 2, Company 2, editor2@company2.com
+Former Editor: Editor 3, Company 3, editor3@company3.com
+Former Editor: Editor 4, Company 4, editor4@company4.com
+Repository: AOMediaCodec/some-spec
+Shortname: av1-isobmff
+URL: https://aomediacodec.github.io/some-spec/
+Date: 2021-10-18
+Abstract: This is the abstract
+</pre>
+
+# Section 1
+This is an empty spec

@@ -64,6 +64,13 @@ Additional headers of the spec can be added by adding lines preceded with `!` fo
 !Previously approved version: <a href="v1.0.0.html">v1.0.0</a>
 ```
 
+Special case for Final deliverable: the BS file must include:
+```
+Text Macro: SPECVERSION vX.Y.Z
+
+```
+This documents the version of the version of the spec. Any text can be used ("-errata 1", ...)
+
 
 If you have bibliographic references that are not in specref.org you may include additional references directly in your Bikeshed file such as:
 ```
